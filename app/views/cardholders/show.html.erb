@@ -1,0 +1,32 @@
+<h1>Show cardholder</h1>
+<%#=params %>
+<table id="table"  width="80%" align="center" style="background-color:silver" cellpadding="2" cellspacing="0" border="1">
+<tr>
+<td width="20%">First name</td><td><%= h @cardholder.firstname %>&nbsp;</td>
+</tr><tr>
+<td>Last name</td><td><%=h @cardholder.lastname %>&nbsp;</td>
+</tr><tr>
+<td>contact phone number</td><td><%= h @cardholder.phonenumber %>&nbsp;</td>
+</tr><tr>
+<td>City</td><td><%= h @cardholder.city  %>&nbsp;</td>
+</tr><tr>
+<td>Country</td><td><%= h @cardholder.country %>&nbsp;</td>
+</tr><tr>
+<td>Address</td><td><%= h @cardholder.address%>&nbsp;</td>
+</tr><tr>
+<td>Passport number</td><td><%= h @cardholder.passportnumber %>&nbsp;</td>
+</tr>
+<tr>
+<td>Cards</td><td><%@cards.each do |card| %>
+<%= link_to card.cardnumber, card %><br />
+<%end %>
+&nbsp;</td>
+</tr>
+</table>
+
+<center>
+
+<%= link_to 'Back', cardholders_path %> |
+<%= link_to 'Edit', edit_cardholder_path(@cardholder) %> |
+<%= link_to 'Destroy', @cardholder, :confirm => 'Are you sure?', :method => :delete, :remote=>true %>
+</center>

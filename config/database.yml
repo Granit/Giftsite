@@ -1,0 +1,33 @@
+
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: development.postgresql
+  pool: 5
+  username: username
+  password: 
+  template: template0 # Required for UTF8 encoding
+  host: localhost
+  port: 5432
+ 
+test:
+  adapter: postgresql
+  encoding: utf8
+  database: test.postgresql
+  pool: 5
+  username: username
+  password: 
+  template: template0 # Required for UTF8 encoding
+  host: localhost
+  port: 5432
+ 
+production:
+  adapter: postgresql
+  encoding: utf8
+  database: production.postgresql
+  pool: 5
+  username: username
+  password: 
+  template: template0 # Required for UTF8 encoding
+  host: localhost
+  port: 5432

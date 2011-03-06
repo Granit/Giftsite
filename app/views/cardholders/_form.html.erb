@@ -1,0 +1,31 @@
+
+<% form_for(@cardholder) do |cardholder_form| %>
+<%= errors_for(@cardholder, "Unable to add new cardholder").html_safe %>
+
+<div class="cardholder_form">
+<% unless @cardholder.nil? %>
+ <% form_for(@cardholder) do |cardholder_form| %>
+<table id="table"  width="80%" align="center" style="background-color:silver" cellpadding="2" cellspacing="0" border="1">
+<tr>
+<td width="20%">First name</td><td><%= cardholder_form.text_field :firstname %></td>
+</tr><tr>
+<td>Last name</td><td><%= cardholder_form.text_field :lastname %></td>
+</tr><tr>
+<td>Contact phone number</td><td><%= cardholder_form.text_field :phonenumber %></td>
+</tr><tr>
+<td>City</td><td><%= cardholder_form.text_field :city %></td>
+</tr><tr>
+<td>Country</td><td><%= cardholder_form.text_field :country %></td>
+</tr><tr>
+<td>Address</td><td><%= cardholder_form.text_field :address %></td>
+</tr><tr>
+<td>Passport number</td><td><%= cardholder_form.text_field :passportnumber %></td>
+</tr>
+
+</table>
+ <% end %>
+<% end %>
+</div>
+<p><center><%= cardholder_form.submit "Save" %></center></p>
+<% end %>
+

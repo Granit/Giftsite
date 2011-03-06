@@ -1,0 +1,80 @@
+<table id="form_reports"  width="80%" align="center" style="background-color:silver" cellpadding="2" cellspacing="0">
+<tr>
+<td width="20%" style="padding-left: 10; background-color: silver;"><%= button_to 'Back to main page', root_path %></td>
+<td width="60%" style="padding-left: 10; background-color: silver;"> <%= button_to 'Reports', reports_path, :method => 'get' %></td>
+<td> <%= button_to 'Cards', cards_path, :method => 'get' %></td>
+</tr>
+</table>
+
+<table id="form_cardholders"  width="80%" align="center" cellpadding="2" cellspacing="0" border="1">
+  <tr><td width="20%" style="padding-left: 10; background-color: silver;">
+
+<%= button_to 'New cardholder', new_cardholder_path %>
+
+<% form_tag cardholders_path, :method => 'get' do %>
+  <p>
+    <%= text_field_tag :search, params[:search] %>
+    <%= submit_tag "Search by name", :name => nil %>
+  </p>
+<% end %>
+
+
+<% @cardholders.each do |cardholder| %>
+	
+    <%= link_to "#{cardholder.firstname} #{cardholder.lastname}", cardholders_path(:k_id=>cardholder.id)  %>
+   
+    <%#= link_to 'Show', cardholder %>
+    <%#= link_to 'Edit', edit_cardholder_path(cardholder) %>
+    <%#= link_to 'Destroy', cardholder, :confirm => 'Are you sure?', :method => :delete %>
+<br />
+<% end %>
+
+</td>
+    <td width="60%" style="padding-left: 10; background-color: silver;">
+&nbsp;
+<% unless @cardholder.nil? %>
+
+ <% form_for(@cardholder) do |cardholder_form| %>
+<table id="table"  width="100%" align="center" style="background-color:silver" cellpadding="2" cellspacing="0" border="1">
+<tr>
+<td width="20%">First name</td><td><%= h @cardholder.firstname %>&nbsp;</td>
+</tr><tr>
+<td>Last name</td><td><%= h @cardholder.lastname %>&nbsp;</td>
+</tr><tr>
+<td>Contact phone number</td><td><%= h @cardholder.phonenumber %>&nbsp;</td>
+</tr><tr>
+<td>City</td><td><%= h @cardholder.city %>&nbsp;</td>
+</tr><tr>
+<td>Country</td><td><%= h @cardholder.country %>&nbsp;</td>
+</tr><tr>
+<td>Address</td><td><%= h @cardholder.address %>&nbsp;</td>
+</tr><tr>
+<td>Passport number</td><td><%= h @cardholder.passportnumber %>&nbsp;</td>
+<tr>
+<td>Cards</td><td colspan="2"><%@cards.each_with_index do |card, index| %>
+<% if card.nil? %>
+<%= link_to 'empty', cardholders_path(:k_id=>@cardholder.id, :choose_card=>true) %><br />
+<% else %>
+<%= link_to card.cardnumber, card %> (<%= link_to 'clear', cardholders_path(:k_id=>@cardholder.id, :clear_card=>card['id']) %>)<br />
+<% end %>
+<% end %>
+</tr>
+</table>
+    <%= link_to 'Show', @cardholder %>
+    <%= link_to 'Edit', edit_cardholder_path(@cardholder) %>
+    <%#= link_to 'Destroy', @cardholder, :confirm => 'Are you sure?', :method => :delete %>
+    <%= link_to 'Destroy',destroy_cardholder_path(:id=>@cardholder.id), :confirm => 'Are you sure?' %>
+ <% end %>
+</td>
+<td width="20%" style="padding-left: 10; background-color: silver;">
+<% unless @choose_card.nil? %>
+<%@free_cards.each do |card| %>
+<%= link_to card.cardnumber, cardholders_path(:k_id=>@cardholder.id, :choose_card=>true, :c_id=>card['id']) %><br />
+<% end %>
+<% end %>&nbsp;
+</td>
+  </tr>
+</table>
+<% end %>
+
+

@@ -1,0 +1,19 @@
+<h1>Show card</h1>
+
+<table id="table"  width="80%" align="center" style="background-color:silver" cellpadding="2" cellspacing="0" border="1">
+<tr>
+<td width="20%">Card number</td><td colspan="2"><%= h @card.cardnumber %>&nbsp;</td>
+</tr>
+<tr>
+<td>Cardholder</td><td>
+<%= (link_to "#{@cardholder['firstname']} #{@cardholder['lastname']}", @cardholder ) unless @cardholder.nil?%><br />
+&nbsp;</td>
+</tr>
+</table>
+
+<center>
+
+<%= link_to 'Back', cards_path %> |
+<%= link_to 'Edit', edit_card_path(@card) %> |
+<%= link_to 'Destroy', @card, :confirm => 'Are you sure?', :method => :delete, :remote=>true %>
+</center>

@@ -1,0 +1,9 @@
+<h1>Editing card</h1>
+
+<%= render :partial => "form" %>
+<center>
+<%= link_to 'Back', cards_path %> |
+<%= link_to 'Show', @card %> |
+<%= link_to 'Destroy', @card, :confirm => 'Are you sure?', :method => :delete %>
+<%#= link_to 'Destroy',destroy_card_path(:id=>card.id), :confirm => 'Are you sure?' %>
+</center>

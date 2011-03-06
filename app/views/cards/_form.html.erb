@@ -1,0 +1,18 @@
+
+<% form_for(@card) do |card_form| %>
+<%= errors_for(@card, "Unable to add new card").html_safe %>
+
+<div class="card_form">
+<% unless @card.nil? %>
+ <% form_for(@card) do |card_form| %>
+<table id="table"  width="80%" align="center" style="background-color:silver" cellpadding="2" cellspacing="0"  border="1">
+<tr>
+<td width="20%">Card number</td><td><%= card_form.text_field :cardnumber %></td>
+</tr>
+</table>
+ <% end %>
+<% end %>
+</div>
+<p><center><%= card_form.submit "Save" %></center></p>
+<% end %>
+

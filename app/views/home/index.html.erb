@@ -1,0 +1,9 @@
+<h1>Welcome to main page</h1>
+<p>"That's one small step for man, one giant leap for mankind"</p>
+<table id="form_reports"  width="80%" align="center" style="background-color:silver" cellpadding="2" cellspacing="0" border="1">
+<tr>
+<td width="20%" style="padding-left: 10; background-color: silver;"><%= button_to 'Reports', reports_path, :method => 'get' %></td>
+<td width="60%" style="padding-left: 10; background-color: silver;"> <%= button_to 'Cardholders', cardholders_path, :method => 'get' %></td>
+<td> <%= button_to 'Cards', cards_path, :method => 'get' %></td>
+</tr>
+</table>
