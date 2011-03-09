@@ -7,19 +7,54 @@
  <% form_for(@cardholder) do |cardholder_form| %>
 <table id="table"  width="80%" align="center" style="background-color:silver" cellpadding="2" cellspacing="0" border="1">
 <tr>
-<td width="20%">First name</td><td><%= cardholder_form.text_field :firstname %></td>
+<td width="20%">First name</td><td width="40%"><%= cardholder_form.text_field :firstname %></td>
+<td>
+<% @cardholder.errors['firstname'].each do |error| %>
+<%=error%><br />
+<% end %>
+</td>
 </tr><tr>
 <td>Last name</td><td><%= cardholder_form.text_field :lastname %></td>
+<td>
+<% @cardholder.errors['lastname'].each do |error| %>
+<%=error%><br />
+<% end %>
+</td>
 </tr><tr>
 <td>Contact phone number</td><td><%= cardholder_form.text_field :phonenumber %></td>
+<td>
+<% @cardholder.errors['phonenumber'].each do |error| %>
+<%=error%><br />
+<% end %>
+</td>
 </tr><tr>
 <td>City</td><td><%= cardholder_form.text_field :city %></td>
+<td>
+<% @cardholder.errors['city'].each do |error| %>
+<%=error%><br />
+<% end %>
+</td>
 </tr><tr>
 <td>Country</td><td><%= cardholder_form.text_field :country %></td>
+<td>
+<% @cardholder.errors['country'].each do |error| %>
+<%=error%><br />
+<% end %>
+</td>
 </tr><tr>
 <td>Address</td><td><%= cardholder_form.text_field :address %></td>
+<td>
+<% @cardholder.errors['address'].each do |error| %>
+<%=error%><br />
+<% end %>
+</td>
 </tr><tr>
 <td>Passport number</td><td><%= cardholder_form.text_field :passportnumber %></td>
+<td>
+<% @cardholder.errors['passportnumber'].each do |error| %>
+<%=error%><br />
+<% end %>
+</td>
 </tr>
 
 </table>

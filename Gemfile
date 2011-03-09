@@ -9,6 +9,20 @@ gem 'rails', '3.0.1'
 gem 'pg', :require => 'pg'
 gem 'dynamic_form'
 
+group :test do
+  gem 'rspec-rails'
+  gem 'webrat', :git=> 'https://github.com/brynary/webrat.git'
+end
+group :cucumber do
+  gem 'capybara'
+  gem 'database_cleaner'
+  gem 'cucumber-rails'
+  gem 'cucumber'
+  gem 'rspec-rails'
+  gem 'spork'
+  gem 'launchy'
+end  
+
 # Use unicorn as the web server
 # gem 'unicorn'
 

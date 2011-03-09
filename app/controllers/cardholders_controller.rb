@@ -2,7 +2,8 @@ class CardholdersController < ApplicationController
   # GET /cardholders
   # GET /cardholders.xml
   def index
-    @cardholders = Cardholder.all
+    #@cardholders = Cardholder.all
+    @cardholders = Cardholder.search(params[:search])
     @k_id = params[:k_id]
     @choose_card = params[:choose_card]
 	unless @k_id.nil?
@@ -96,7 +97,7 @@ class CardholdersController < ApplicationController
   def destroy
   	
     @cardholder = Cardholder.find(params[:id])
-    @cardholder.destroy
+    @cardholder.destroy unless @cardholder.nil?
 
     respond_to do |format|
       format.html { redirect_to(cardholders_url) }

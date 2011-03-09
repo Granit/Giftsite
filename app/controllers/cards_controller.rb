@@ -2,7 +2,8 @@ class CardsController < ApplicationController
   # GET /cards
   # GET /cards.xml
   def index
-    @cards = Card.all
+    #@cards = Card.all
+    @cards = Card.search(params[:search])
     @c_id = params[:c_id]
 	unless @c_id.nil?
 		@card = Card.find(@c_id)

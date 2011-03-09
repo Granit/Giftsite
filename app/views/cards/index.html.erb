@@ -8,14 +8,14 @@
 <table id="form_cards"  width="80%" align="center" cellpadding="2" cellspacing="0"  border="1">
   <tr><td width="20%" style="padding-left: 10; background-color: silver;">
 
-<%= button_to 'New card', new_card_path %>
+<%= button_to 'New card', new_card_path, :method => 'get' %>
 
-<%# form_tag cards_path, :method => 'get' do %>
+<% form_tag cards_path, :method => 'get' do %>
   <p>
-    <%#= text_field_tag :search, params[:search] %>
-    <%#= submit_tag "Search by name", :name => nil %>
+    <%= text_field_tag :search, params[:search] %>
+    <%= submit_tag "Search by card number", :cardnumber => nil %>
   </p>
-<%# end %>
+<% end %>
 
 
 <% @cards.each do |card| %>

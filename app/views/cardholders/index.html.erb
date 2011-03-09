@@ -9,7 +9,7 @@
 <table id="form_cardholders"  width="80%" align="center" cellpadding="2" cellspacing="0" border="1">
   <tr><td width="20%" style="padding-left: 10; background-color: silver;">
 
-<%= button_to 'New cardholder', new_cardholder_path %>
+<%= button_to 'New cardholder', new_cardholder_path, :method => 'get' %>
 
 <% form_tag cardholders_path, :method => 'get' do %>
   <p>

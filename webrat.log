@@ -1,0 +1,975 @@
+# Logfile created on Wed Mar 09 14:11:01 +0200 2011 by logger.rb/22285
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ul. Lenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"1234512345"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ul. Lenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"1234512345"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ul. Lenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"1234512345"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"123451"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/10 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/11 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/12 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/13 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"<card_cardnumber>"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/14 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"<card_cardnumber>"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/15 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/16 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"<card_cardnumber>"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/17 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/1 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/18 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/2 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/19 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/3 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/20 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/4 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/21 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/5 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/22 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/6 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/23 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/7 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/24 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/8 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/25 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/9 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/26 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/10 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/27 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/11 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/28 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/12 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/13 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/29 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/14 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/30 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/15 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/31 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/16 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/32 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/17 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/18 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/33 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/19 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/34 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/20 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/35 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/21 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/36 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/37 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/22 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/38 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/38 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/38"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/39 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/23 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/40 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/41 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/24 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/42 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/42 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/42"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/43 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/25 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/44 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/44 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/44"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/26 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/26 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/26"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/45 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/27 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/46 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/46 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/46"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/28 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/28 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/28"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/47 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/29 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/48 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/48 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/48"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/30 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/30 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/30"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/49 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/49"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/50 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/31 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/51 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/51 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/51"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/32 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/32 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/32"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/52 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/52"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/53 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/33 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/54 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/54 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/54"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/34 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/34 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/34"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/55 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/55"}
+REQUESTING PAGE: GET /cardholders?k_id=55 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/56 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/35 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/57 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/57 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/57"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/36 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/36 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/36"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/58 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/58"}
+REQUESTING PAGE: GET /cardholders?k_id=58 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/59 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/37 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/60 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/60 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/60"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/38 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/38 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/38"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/61 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/61"}
+REQUESTING PAGE: GET /cardholders?k_id=61 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/62 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/39 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/63 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/63 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/63"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/40 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/40 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/40"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/64 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/64"}
+REQUESTING PAGE: GET /cardholders?k_id=64 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=64 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=64"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/65 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/41 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/66 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/66 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/66"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/42 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/42 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/42"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"<cardholder_lastname>", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/67 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/67"}
+REQUESTING PAGE: GET /cardholders?k_id=67 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=67 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=67"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/68 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/43 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/69 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/69 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/69"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/44 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/44 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/44"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/70 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/70"}
+REQUESTING PAGE: GET /cardholders?k_id=70 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=70 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=70"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/71 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/45 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/72 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/72 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/72"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/46 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/46 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/46"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/73 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/73"}
+REQUESTING PAGE: GET /cardholders?k_id=73 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=73 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=73"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/74 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/47 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/75 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/75 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/75"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/48 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/48 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/48"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/76 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/76"}
+REQUESTING PAGE: GET /cardholders?k_id=76 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=76 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=76"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/77 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/49 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/78 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/78 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/78"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/50 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/50 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/50"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/79 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/79"}
+REQUESTING PAGE: GET /cardholders?k_id=79 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=79 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=79"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/80 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/51 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/81 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/81 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/81"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/52 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/52 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/52"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/82 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/82"}
+REQUESTING PAGE: GET /cardholders?k_id=82 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=82 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=82"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/83 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/53 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/84 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/84 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/84"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/54 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/54 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/54"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/85 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/85"}
+REQUESTING PAGE: GET /cardholders?k_id=85 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=85 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=85"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/86 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/55 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/87 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/87 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/87"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/56 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/56 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/56"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/88 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/88"}
+REQUESTING PAGE: GET /cardholders?k_id=88 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=88 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=88"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/89 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/57 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/90 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/90 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/90"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/58 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/58 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/58"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/91 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/91"}
+REQUESTING PAGE: GET /cardholders?k_id=91 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=91 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=91"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/92 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/59 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/93 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/93 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/93"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/60 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/60 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/60"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/94 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/94"}
+REQUESTING PAGE: GET /cardholders?k_id=94 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=94 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=94"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/95 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/61 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/96 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/96 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/96"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/62 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/62 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/62"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/97 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/97"}
+REQUESTING PAGE: GET /cardholders?k_id=97 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=97 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=97"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/98 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/63 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/99 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/99 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/99"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/64 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/64 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/64"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/100 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/100"}
+REQUESTING PAGE: GET /cardholders?k_id=100 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=100 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=100"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/101 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/65 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/102 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/102 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/102"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/66 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/66 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/66"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/103 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/103"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/67 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/104 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/68 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/105 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/105 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/105"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/69 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/69 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/69"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/106 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/106"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/70 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/70"}
+REQUESTING PAGE: GET /cardholders?k_id=106 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=106 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=106"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/107 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/71 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/108 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/108 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/108"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/72 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/72 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/72"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/109 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/109"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/73 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/73"}
+REQUESTING PAGE: GET /cardholders?k_id=109 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=109 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=109"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/110 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/74 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/111 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/111 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/111"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/75 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/75 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/75"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/112 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/112"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/76 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/76"}
+REQUESTING PAGE: GET /cardholders?k_id=112 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=112 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=112"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=112&c_id=76 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=112"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/113 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/77 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/114 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/114 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/114"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/78 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/78 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/78"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/115 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/115"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/79 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/79"}
+REQUESTING PAGE: GET /cardholders?k_id=115 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=115 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=115"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=115&c_id=79 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=115"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/116 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/80 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/117 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/117 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/117"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/81 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/81 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/81"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/118 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/118"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/82 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/82"}
+REQUESTING PAGE: GET /cardholders?k_id=118 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=118 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=118"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=118&c_id=82 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=118"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/119 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/83 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/120 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/120 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/120"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/84 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/84 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/84"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/121 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/121"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/85 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/85"}
+REQUESTING PAGE: GET /cardholders?k_id=121 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=121 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=121"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=121"}
+REQUESTING PAGE: GET /cardholders?k_id=121 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/122 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/86 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/123 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/123 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/123"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/87 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/87 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/87"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/124 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/124"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/88 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/88"}
+REQUESTING PAGE: GET /cardholders?k_id=124 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=124 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=124"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=124&c_id=88 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=124"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=124&c_id=88"}
+REQUESTING PAGE: GET /cardholders?k_id=124 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/125 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/89 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/126 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/126 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/126"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/90 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/90 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/90"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/127 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/127"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/91 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/91"}
+REQUESTING PAGE: GET /cardholders?k_id=127 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=127 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=127"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=127&c_id=91 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=127"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=127&c_id=91"}
+REQUESTING PAGE: GET /cardholders?k_id=127 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/128 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/92 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/129 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/129 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/129"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/93 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/93 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/93"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/130 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/130"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/94 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/94"}
+REQUESTING PAGE: GET /cardholders?k_id=130 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=130 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=130"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=130&c_id=94 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=130"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=130&c_id=94"}
+REQUESTING PAGE: GET /cardholders?k_id=130 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/131 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/95 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/132 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/132 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/132"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/96 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/96 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/96"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/133 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/133"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/97 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/97"}
+REQUESTING PAGE: GET /cardholders?k_id=133 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=133 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=133"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=133&c_id=97 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=133"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=133&c_id=97"}
+REQUESTING PAGE: GET /cardholders?k_id=133 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?clear_card=97&k_id=133 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=133"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/134 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/98 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/135 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/135 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/135"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/99 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/99 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/99"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/136 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/136"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/100 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/100"}
+REQUESTING PAGE: GET /cardholders?k_id=136 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=136 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=136"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=136&c_id=100 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=136"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=136&c_id=100"}
+REQUESTING PAGE: GET /cardholders?k_id=136 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?clear_card=100&k_id=136 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=136"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/137 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/101 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/138 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/138 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/138"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/102 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/102 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/102"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/139 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/139"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/103 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/103"}
+REQUESTING PAGE: GET /cardholders?k_id=139 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=139 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=139"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=139&c_id=103 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=139"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=139&c_id=103"}
+REQUESTING PAGE: GET /cardholders?k_id=139 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?clear_card=103&k_id=139 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=139"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?clear_card=103&k_id=139"}
+REQUESTING PAGE: GET /cardholders?k_id=139 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/140 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/104 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/141 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/141 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/141"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/105 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/105 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/105"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/142 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/142"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/106 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/106"}
+REQUESTING PAGE: GET /cardholders?k_id=142 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=142 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=142"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=142&c_id=106 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=142"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=142&c_id=106"}
+REQUESTING PAGE: GET /cardholders?k_id=142 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?clear_card=106&k_id=142 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=142"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?clear_card=106&k_id=142"}
+REQUESTING PAGE: GET /cardholders?k_id=142 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/143 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/107 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/144 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders/144 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/144"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512346"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/108 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cards/108 with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/108"}
+REQUESTING PAGE: GET /cardholders/new with {} and HTTP headers {}
+REQUESTING PAGE: POST /cardholders with {"commit"=>"Save", "utf8"=>"✓", "cardholder"=>{"address"=>"ulLenina", "city"=>"Kiev", "country"=>"Ukraine", "phonenumber"=>"+12341234", "lastname"=>"Ivanov", "firstname"=>"Sidor", "passportnumber"=>"pa12345ss"}} and HTTP headers {"HTTP_REFERER"=>"/cardholders/new"}
+REQUESTING PAGE: GET http://example.org/cardholders/145 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cards/new with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cardholders/145"}
+REQUESTING PAGE: POST /cards with {"commit"=>"Save", "utf8"=>"✓", "card"=>{"cardnumber"=>"1234512347"}} and HTTP headers {"HTTP_REFERER"=>"/cards/new"}
+REQUESTING PAGE: GET http://example.org/cards/109 with {} and HTTP headers {"HTTP_REFERER"=>"/cards"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"http://example.org/cards/109"}
+REQUESTING PAGE: GET /cardholders?k_id=145 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=145 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=145"}
+REQUESTING PAGE: GET /cardholders?choose_card=true&k_id=145&c_id=109 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=145"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?choose_card=true&k_id=145&c_id=109"}
+REQUESTING PAGE: GET /cardholders?k_id=145 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}
+REQUESTING PAGE: GET /cardholders?clear_card=109&k_id=145 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?k_id=145"}
+REQUESTING PAGE: GET /cardholders with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders?clear_card=109&k_id=145"}
+REQUESTING PAGE: GET /cardholders?k_id=145 with {} and HTTP headers {"HTTP_REFERER"=>"/cardholders"}

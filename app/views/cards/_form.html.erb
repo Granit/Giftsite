@@ -7,7 +7,13 @@
  <% form_for(@card) do |card_form| %>
 <table id="table"  width="80%" align="center" style="background-color:silver" cellpadding="2" cellspacing="0"  border="1">
 <tr>
-<td width="20%">Card number</td><td><%= card_form.text_field :cardnumber %></td>
+<td width="20%">Card number</td><td width="40%"><%= card_form.text_field :cardnumber %></td>
+<td>
+<% @card.errors['cardnumber'].each do |error| %>
+<%=error%><br />
+<% end %>
+</td>
+
 </tr>
 </table>
  <% end %>
